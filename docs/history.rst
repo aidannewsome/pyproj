@@ -3,6 +3,7 @@ Change Log
 
 Latest
 ------
+- BUG: Keep the CA bundle path alive for contexts made in other threads (issue #1644)
 
 3.8.0
 ------
